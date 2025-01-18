@@ -1,0 +1,17 @@
+[
+    {
+        "Client": "Client A",
+        "Number of Deals": 3,
+        "Total Deal Value": "$34,000.00"
+    },
+    {
+        "Client": "Client B",
+        "Number of Deals": 2,
+        "Total Deal Value": "$20,000.00"
+    },
+    {
+        "Client": "Client C",
+        "Number of Deals": 2,
+        "Total Deal Value": "$32,000.00"
+    }
+]
